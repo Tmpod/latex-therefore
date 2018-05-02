@@ -21,5 +21,8 @@
 \ThereforePhrases(19)={Por uma questão de simetria temos que}
 \ThereforePhrases(20)={É uma verdade divina que}
 \ThereforePhrases(21)={É sabido que}
+\ThereforePhrases(22)={Então,}
+\ThereforePhrases(23)={Por conseguinte,}
+\ThereforePhrases(23)={Deste modo, temos que}
 
 \def\numphrases{21}
